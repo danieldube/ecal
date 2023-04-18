@@ -23,6 +23,7 @@ find_package(GTest REQUIRED)
 
 set(core_test_src
   src/core_test.cpp
+  src/ecal_payload_test.cpp
 )
 
 ecal_add_gtest(${PROJECT_NAME} ${core_test_src})
