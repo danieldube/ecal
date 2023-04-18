@@ -17,6 +17,7 @@
  * ========================= eCAL LICENSE =================================
  */
 
+#include <algorithm>
 #include <cstring>
 #include <string>
 
